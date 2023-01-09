@@ -1,0 +1,15 @@
+C:\Users\hoste\Documents\PROJECTS\konsol-programlama\bin\Debug\net7.0\konsol-programlama.exe
+C:\Users\hoste\Documents\PROJECTS\konsol-programlama\bin\Debug\net7.0\konsol-programlama.deps.json
+C:\Users\hoste\Documents\PROJECTS\konsol-programlama\bin\Debug\net7.0\konsol-programlama.runtimeconfig.json
+C:\Users\hoste\Documents\PROJECTS\konsol-programlama\bin\Debug\net7.0\konsol-programlama.dll
+C:\Users\hoste\Documents\PROJECTS\konsol-programlama\bin\Debug\net7.0\konsol-programlama.pdb
+C:\Users\hoste\Documents\PROJECTS\konsol-programlama\obj\Debug\net7.0\konsol-programlama.csproj.AssemblyReference.cache
+C:\Users\hoste\Documents\PROJECTS\konsol-programlama\obj\Debug\net7.0\konsol-programlama.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hoste\Documents\PROJECTS\konsol-programlama\obj\Debug\net7.0\konsol-programlama.AssemblyInfoInputs.cache
+C:\Users\hoste\Documents\PROJECTS\konsol-programlama\obj\Debug\net7.0\konsol-programlama.AssemblyInfo.cs
+C:\Users\hoste\Documents\PROJECTS\konsol-programlama\obj\Debug\net7.0\konsol-programlama.csproj.CoreCompileInputs.cache
+C:\Users\hoste\Documents\PROJECTS\konsol-programlama\obj\Debug\net7.0\konsol-programlama.dll
+C:\Users\hoste\Documents\PROJECTS\konsol-programlama\obj\Debug\net7.0\refint\konsol-programlama.dll
+C:\Users\hoste\Documents\PROJECTS\konsol-programlama\obj\Debug\net7.0\konsol-programlama.pdb
+C:\Users\hoste\Documents\PROJECTS\konsol-programlama\obj\Debug\net7.0\konsol-programlama.genruntimeconfig.cache
+C:\Users\hoste\Documents\PROJECTS\konsol-programlama\obj\Debug\net7.0\ref\konsol-programlama.dll
