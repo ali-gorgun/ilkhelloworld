@@ -13,6 +13,7 @@ namespace konsol_programlama
             var surname = Console.ReadLine();
 
             Console.WriteLine ( " merhaba " + name + " " + surname);
+            //alı gorgun
         }   
     }
 }
